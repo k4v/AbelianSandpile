@@ -1,3 +1,5 @@
+/** Copyright (C) {2015}  {Karthik Venugopal} **/
+
 #ifndef CONSTANTS_H_INCLUDED
 #define CONSTANTS_H_INCLUDED
 

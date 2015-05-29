@@ -1,3 +1,5 @@
+/** Copyright (C) {2015}  {Karthik Venugopal} **/
+
 #include "SandpileQuarter.h"
 #include <iostream>
 #include <cstdio>

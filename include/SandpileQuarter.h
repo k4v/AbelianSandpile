@@ -1,3 +1,5 @@
+/** Copyright (C) {2015}  {Karthik Venugopal} **/
+
 #ifndef SANDPILEQUARTER_H
 #define SANDPILEQUARTER_H
 
