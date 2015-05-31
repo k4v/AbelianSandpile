@@ -3,7 +3,9 @@
 #ifndef CONSTANTS_H_INCLUDED
 #define CONSTANTS_H_INCLUDED
 
-#define LOG_CHIP_HEIGHT 28  // log2 of the number of chips we're dumping on the sandpile
+#include <iostream>
+
+#define LOG_CHIP_HEIGHT 18  // log2 of the number of chips we're dumping on the sandpile
 #define TOPPLE_HEIGHT   4   // Number of chips required for an individual slot to topple
 
 #define CHIPS_1B        30  // LOG_CHIP_HEIGHT required for 1 billion sand chips
